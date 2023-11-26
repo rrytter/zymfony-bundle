@@ -1,5 +1,5 @@
 {
-  "name": "saa/zymfony-bundle",
+  "name": "rrytter/zymfony-bundle",
   "type": "symfony-bundle",
   "description": "Components to migrate ZF1 to SF4",
   "keywords": [],
